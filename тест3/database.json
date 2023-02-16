@@ -1,0 +1,20 @@
+{
+    "Ludi": [
+        {
+            "name": "CAC",
+            "comment": "Don't stay awake for too longDon't "
+        },
+        {
+            "name": "SOKS",
+            "comment": "Don't stay awake for too longDon't go "
+        },
+        {
+            "name": "SOS",
+            "comment": "Don't stay awake "
+        },
+        {
+            "name": "DID",
+            "comment": "Don't stay "
+        }
+    ]
+}

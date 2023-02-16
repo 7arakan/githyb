@@ -1,0 +1,28 @@
+{
+  "BLOCKS": [
+    {
+      "width": "100px",
+      "height": "100px",
+      "background": "red",
+      "top": "609px",
+      "left": "476px",
+      "id": 1
+    },
+    {
+      "width": "150px",
+      "height": "150px",
+      "background": "green",
+      "top": "146px",
+      "left": "87px",
+      "id": 2
+    },
+    {
+      "width": "25px",
+      "height": "25px",
+      "background": "blue",
+      "top": "499px",
+      "left": "248px",
+      "id": 3
+    }
+  ]
+}
